@@ -1,5 +1,5 @@
 {
-  "name": "erc721-minting-boilerplate-js",
+  "name": "erc721-minting-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
@@ -24,5 +24,8 @@
     "dotenv-webpack": "^7.1.0",
     "nft.storage": "^3.4.0",
     "style-loader": "^0.23.1"
-  }
+  },
+  "description": "By cloning this repository, you can instantly create a mint application of ERC721 minting.",
+  "author": "",
+  "license": "ISC"
 }
